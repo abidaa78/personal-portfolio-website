@@ -33,3 +33,21 @@ a {
     font-weight: 700;
 }
 
+.navbar ul {
+    display: flex;
+}
+
+.navbar ul li {
+    list-style: none;
+    margin-left: 35px;
+}
+.navbar ul li a {
+    font-size: 20px;
+    font-weight: 500;
+    transition: .5s;
+}
+
+.navbar ul li:hover a ,
+.navbar ul li.active a {
+    color:yellow;
+}
