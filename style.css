@@ -59,3 +59,16 @@ a {
     padding: 60px 9% 0;
     color:#fff;
 }
+.home-info h1{
+    font-size:40px;
+}
+
+.home-info h2 {
+    font-size: 32px;
+    margin-top: -10px;
+}
+
+.home-info p {
+    font-size: 16px;
+    margin: 10px 0 25px;
+}
