@@ -96,3 +96,25 @@ a {
     color: #7cf03d;
     box-shadow: none;
 }
+
+.home-info .btn-sci {
+    margin-left: 20px;
+
+}
+
+.home-info .btn-sci .sci a {
+    display: inline-flex;
+    padding:8px;
+    border:0cqw 2px solid #7cf03d;
+    border-radius: 50%;
+    font-size: 20px;
+    color: #7cf03d;
+    margin: 0 8px;
+    transition: .5s;
+}
+
+.home-info .btn-sci .sci a:hover{
+    background: #7cf03d;
+    color: #1f242d;
+    box-shadow: 0 0 10px #7cf03d;
+}
