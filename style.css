@@ -20,7 +20,7 @@ a {
     left: 0;
     right: 0;
     padding: 25px 9%;
-    background: slateblue;
+    /* background: slateblue; */
 
     display:flex;
     justify-content: space-between;
@@ -50,4 +50,12 @@ a {
 .navbar ul li:hover a ,
 .navbar ul li.active a {
     color:yellow;
+}
+
+.home {
+    display:flex;
+    align-items: center;
+    height: 100vh;
+    padding: 60px 9% 0;
+    color:#fff;
 }
