@@ -14,3 +14,16 @@ a {
     color:#fff;
     text-decoration: none;
 }
+
+.navbar {
+    position: fixed;
+    left: 0;
+    right: 0;
+    padding: 25px 9%;
+    background: slateblue;
+
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 100;
+}
